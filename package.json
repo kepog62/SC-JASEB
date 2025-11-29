@@ -1,0 +1,19 @@
+{
+  "name": "telegram-share-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk share pesan ke grup, channel, dan pengguna dengan sistem premium",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.14.0",
+    "axios": "^1.6.7",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.12",
+    "node-telegram-bot-api": "^0.66.0",
+    "js-beautify": "^1.14.9"
+  },
+  "author": "RANN TAR",
+  "license": "MIT"
+}
